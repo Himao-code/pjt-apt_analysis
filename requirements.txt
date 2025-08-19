@@ -1,0 +1,10 @@
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+statsmodels>=0.14
+requests>=2.32
+lxml>=5.2
+openpyxl>=3.1
+xlrd>=2.0
+pyarrow>=15.0
+tqdm>=4.66
